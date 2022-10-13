@@ -35,11 +35,11 @@ De development lifecycle kent de volgende stappen:
 Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
 
 Voor deze leertaak gelden de gedragscriteria voor sprint 15: 
-* Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving
-* Weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever
-* Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden
-* Selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
-* Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen
+* M: Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving
+* M: Weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever
+* ~~C: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden~~
+* P: Selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+* L: Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen
 
 
 
