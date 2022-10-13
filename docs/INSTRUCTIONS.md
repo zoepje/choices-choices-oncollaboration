@@ -3,7 +3,7 @@ De conventie voor naamgeving is sprintnaam-(sub)taaknaam
 Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 -->
 
-# The Client Case
+# Choices, Choices - The Tech-stack
 
 Kies de beste frameworks en tools voor het ontwerpen en bouwen van een website voor een opdrachtgever 
 
@@ -32,7 +32,7 @@ De development lifecycle kent de volgende stappen:
 
 ## Criteria
 
-Focus sprint # - De focus in deze sprint ligt op het maken van onderbouwde keuzes voor tools en frameworks bij het realiseren van een opdracht voor een opdrachtgever
+Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
 
 Voor deze leertaak gelden de gedragscriteria voor sprint 15: 
 * Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving
