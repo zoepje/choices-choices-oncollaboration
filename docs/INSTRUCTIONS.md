@@ -19,7 +19,7 @@ In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-c
 
 De keuze voor een geschikt framework en tooling hangt af van verschillende factoren, zoals de User Experience (UX), Content Management (CMS) en de Development Expererience (DX). Voor de UX is het belangrijk te weten wie de gebruikers zijn van de website, wat voor apparaten zij gebruiken en of ze bv snel internet hebben of juist niet. Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. De DX wordt onder andere bepaald of de website onderdeel is van een ander systeem, met hoeveel developers je aan het project gaat werken en hoe lang je aan het project gaat werken. 
 
-In deze sprint ga je onderzoeken wat een geschikte tech-stack is waarmee je de opdracht voor de opdrachtgever goed kan maken en onderhouden. Voor deze sprint ga je dezelfde User Story als sprint 15 uitwerken, maar dan met een ander framework, een andere tool of een ander headless CMS. Zo kun je aan het eind van deze sprint een goede vergelijking maken van hoe verschillende frameworks en tools werken en welke het beste is voor jouw opdracht. 
+In deze sprint ga je onderzoeken wat een geschikte tech-stack is waarmee je de opdracht voor de opdrachtgever goed kan maken en onderhouden. Voor deze sprint ga je dezelfde User Story als sprint 14 uitwerken, maar dan met een ander framework, een andere tool of een ander headless CMS. Zo kun je aan het eind van deze sprint een goede vergelijking maken van hoe verschillende frameworks en tools werken en welke het beste is voor jouw opdracht. 
 
 
 ### Aanpak
