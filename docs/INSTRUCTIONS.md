@@ -28,7 +28,7 @@ In deze sprint ga je onderzoeken wat een geschikte tech-stack is waarmee je de o
 2. Kopieer de User Story waar jij aan gaat werken naar de Readme van de geforkte repository. Dit is wat je gaat ontwerpen, maken en testen.
 3. Kies een ander framwork of tool waarmee je deze User Story nog een keer gaat realiseren.
 4. Documenteer doorlopend jouw proces aan de hand van de dev-lifecycle, alle (technische en ontwerp) beslissingen dienen onderbouwd te worden en je verwijst naar alle bronnen die je bij de verschillende fases gebruikt hebt. 
-5. Schrijf tenslotte een conclusie waarin je het frameworks en tools die je hebt gebruikt in sprint 14 en sprint 15 vergelijkt. 
+5. Schrijf tenslotte een conclusie waarin je het frameworks en tools die je hebt gebruikt in sprint 14 en sprint 15 vergelijkt en doe een aanbeveling voor de beste tech-stack voor jouw opdracht. 
 
 
 ## Criteria
@@ -42,3 +42,10 @@ Voor deze leertaak gelden de gedragscriteria voor sprint 15:
 * P: Je selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
 * L: Je maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen
 
+Deze opdracht is done als:
+
+ - [ ] Je hebt verschillende frameworks en tools onderzocht en uitgeprobeerd
+ - [ ] Je hebt de framworks en tools vergeleken en een onderbouwde keuze gemaakt voor een geschikte tech-stack
+ - [ ] Je hebt je onderzoek gedocumenteerd in de Wiki
+ - [ ] de website staat op Github en heeft een live url
+ 
