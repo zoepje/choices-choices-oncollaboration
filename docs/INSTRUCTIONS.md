@@ -17,7 +17,7 @@ In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-c
 
 De keuze voor een geschikt framework en tooling hangt af van verschillende factoren, zoals de User Experience (UX), Content Management (CMS) en de Development Expererience (DX). Wie de gebruikers zijn van de website en wat voor apparaten zij gebruiken zijn bepalend voor de UX. Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. De DX wordt onder andere bepaald of de website onderdeel is van een ander systeem, met hoeveel developers je aan het project gaat werken en hoe lang je aan het project gaat werken. 
 
-Onderzoek in deze sprint wat belangrijk is voor de UX, het CMS en de DX, en kom met een voorstel waarmee je de opdracht voor de opdrachtgever goed kan maken en onderhouden. Voor de DX ga je deze sprint dezelfde User Story als sprint 15 uitwerken, maar dan met een ander framework, een andere tool en/of een ander headless CMS. Zo kun je aan het eind van deze sprint een goede vergelijking maken van hoe verschillende frameworks en tools werken en welke het beste is voor jouw opdracht. 
+Onderzoek in deze sprint wat belangrijk is voor de UX, het CMS en de DX, en kom met een voorstel waarmee je de opdracht voor de opdrachtgever goed kan maken en onderhouden. Deze sprint dezelfde User Story als sprint 15 uitwerken, maar dan met een ander framework, een andere tool of een ander headless CMS. Zo kun je aan het eind van deze sprint een goede vergelijking maken van hoe verschillende frameworks en tools werken en welke het beste is voor jouw opdracht. 
 
 
 ### Aanpak
@@ -25,8 +25,8 @@ Onderzoek in deze sprint wat belangrijk is voor de UX, het CMS en de DX, en kom 
 1. Maak een fork van [deze leertaak](https://github.com/fdnd-task/choices-choices-the-tech-stack/).
 2. Kopieer de user story waar jij aan gaat werken naar de Wiki van de geforkte repository. Dit is wat je gaat ontwerpen, maken en testen.
 3. Kies een ander framwork of tool waarmee je deze opdracht gaat realiseren.
-4. Documenteer doorlopend jouw proces aan de hand van de dev-lifecycle, alle (technische en ontwerp) beslissingen dienen onderbouwd te worden en je verwijst naar alle bronnen die je bij de verschillende fases gebruikt hebt.
-5. Schrijf tenslotte een goede `Readme.md` waarme je: 1) kort inzicht geeft in het hoe en waarom van jouw project en 2) developers instructies geeft over hoe jouw project te gebruiken is.
+4. Documenteer doorlopend jouw proces aan de hand van de dev-lifecycle, alle (technische en ontwerp) beslissingen dienen onderbouwd te worden en je verwijst naar alle bronnen die je bij de verschillende fases gebruikt hebt. 
+5. Schrijf tenslotte een conclusie waarin je het frameworks en tools die je hebt gebruikt in sprint 14 en sprint 15 vergelijkt. 
 
 
 ## Criteria
