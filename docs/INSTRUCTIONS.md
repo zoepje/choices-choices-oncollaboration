@@ -1,7 +1,7 @@
 
 # Choices, Choices - The Tech-stack
 
-Kies de beste frameworks en tools voor het ontwerpen en bouwen van een website voor een opdrachtgever 
+Kies de beste tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
 
 ## Context
 Deze leertaak hoort bij sprint 15: Coices, choices ... Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
