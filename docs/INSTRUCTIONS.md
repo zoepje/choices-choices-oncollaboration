@@ -25,10 +25,11 @@ In deze sprint ga je onderzoeken wat een geschikte tech-stack is waarmee je de o
 ### Aanpak
 
 1. Maak een fork van [deze leertaak](https://github.com/fdnd-task/choices-choices-the-tech-stack/).
-2. Kopieer de User Story waar jij aan gaat werken naar de Readme van de geforkte repository. Dit is wat je gaat ontwerpen, maken en testen.
-3. Kies een ander framwork of tool waarmee je deze User Story nog een keer gaat realiseren.
-4. Documenteer doorlopend jouw proces aan de hand van de dev-lifecycle, alle (technische en ontwerp) beslissingen dienen onderbouwd te worden en je verwijst naar alle bronnen die je bij de verschillende fases gebruikt hebt. 
-5. Schrijf tenslotte een conclusie waarin je het frameworks en tools die je hebt gebruikt in sprint 14 en sprint 15 vergelijkt en doe een aanbeveling voor de beste tech-stack voor jouw opdracht. 
+2. Kopieer de User Story waar jij aan gaat werken naar de Readme van de geforkte repository. Dit is wat je gaat ontwerpen, maken en testen
+3. Kies een ander framwork of tool waarmee je deze User Story nog een keer gaat realiseren
+4. Verwerk de feedback die je bij de Sprint Review van de vorige sprint hebt gekregen
+5. Documenteer doorlopend jouw proces aan de hand van de dev-lifecycle, alle (technische en ontwerp) beslissingen dienen onderbouwd te worden en je verwijst naar alle bronnen die je bij de verschillende fases gebruikt hebt
+6. Schrijf tenslotte een conclusie waarin je het frameworks en tools die je hebt gebruikt in sprint 14 en sprint 15 vergelijkt en doe een aanbeveling voor de beste tech-stack voor jouw opdracht
 
 
 ## Criteria
