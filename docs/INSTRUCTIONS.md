@@ -45,7 +45,7 @@ Voor deze leertaak gelden de gedragscriteria voor sprint 15:
 Deze opdracht is done als:
 
  - [ ] Je hebt verschillende frameworks en tools onderzocht en uitgeprobeerd
- - [ ] Je hebt de framworks en tools vergeleken en een onderbouwde keuze gemaakt voor een geschikte tech-stack
+ - [ ] Je hebt de frameworks en tools vergeleken en een onderbouwde keuze gemaakt voor een geschikte tech-stack
  - [ ] Je hebt je onderzoek gedocumenteerd in de Wiki
  - [ ] de website staat op Github en heeft een live url
  
