@@ -36,13 +36,6 @@ In deze sprint ga je onderzoeken wat een geschikte tech-stack is waarmee je de o
 
 Focus sprint 15 - In deze sprint ligt de focus op het maken van onderbouwde keuzes voor de frameworks, tools en workflow die je gebruikt voor je project.
 
-Voor deze leertaak gelden de gedragscriteria voor sprint 15: 
-* M: Je combineert onderbouwd principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving
-* M: Je weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever
-* ~~C: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden~~
-* P: Je selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
-* L: Je maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen
-
 Deze opdracht is done als:
 
  - [ ] Je hebt verschillende frameworks en tools onderzocht en uitgeprobeerd
