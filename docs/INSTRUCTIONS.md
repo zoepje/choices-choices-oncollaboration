@@ -13,7 +13,7 @@ Je bouwt tijdens deze sprint het project in een andere tech-stack. Let op: vanaf
 
 ## Werkwijze
 
-In deze leertaak leer je hoe je de keuze voor een geschikt framework en tools die je wil inzetten voor jouw opdracht onderbouwt met steekhoudende argumenten. Je kiest een semi-willekeurige stack op jamstack.org een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
+In deze leertaak leer je hoe je de keuze voor een geschikt framework en tools die je wil inzetten voor jouw opdracht onderbouwt met steekhoudende argumenten. Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
 
 In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-client-case) ben je begonnen met het ontwerpen en maken van een opdracht voor een opdrachtgever met een framework en headless CMS. Daarbij stond het framework (Sveltekit) en het headless CMS (HyGraph) vast. Zijn dit framework en CMS de beste keuze voor dit project? Misschien past een ander framework beter bij de opdracht, of werkt een ander CMS beter voor deze opdrachtgever ... In deze sprint onderzoek je welk framework en welke tools het meest geschikt zijn voor de opdracht.
 
