@@ -9,23 +9,19 @@ Deze leertaak hoort bij sprint 15: Choices, choices ... Dit is een opdracht die 
 
 ## Doel van deze opdracht
 
-Je bouwt tijdens deze sprint het project in een andere tech-stack. Let op: vanaf Sprint 16 gaat het gezamenlijke project verder met de huidige stack, tenzij je steekhoudende argumenten voor een andere stack hebt én ons kan overtuigen. Gaandeweg leer je onderbouwde keuzes te maken voor een geschikte tech-stack, de tools en frameworks die je gebruikt bij het realiseren van een opdracht voor een opdrachtgever. 
+Je leert tijdens deze sprint het project in een andere tech-stack te ontwerpen en bouwen. 
 
 ## Werkwijze
 
-In deze leertaak leer je hoe je de keuze voor een geschikt framework en tools die je wil inzetten voor jouw opdracht onderbouwt met steekhoudende argumenten. Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
+Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
 
-In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-client-case) ben je begonnen met het ontwerpen en maken van een opdracht voor een opdrachtgever met een framework en headless CMS. Daarbij stond het framework (Sveltekit) en het headless CMS (HyGraph) vast. Zijn dit framework en CMS de beste keuze voor dit project? Misschien past een ander framework beter bij de opdracht, of werkt een ander CMS beter voor deze opdrachtgever ... In deze sprint onderzoek je welk framework en welke tools het meest geschikt zijn voor de opdracht.
-
-De keuze voor een geschikt framework en tooling hangt af van verschillende factoren, zoals de User Experience (UX), Content management Experience (CX) en de Development Expererience (DX). Voor de UX is het belangrijk te weten wie de gebruikers zijn van de website, wat voor apparaten zij gebruiken en of ze bv. snel internet hebben of juist niet. Het CMS gaat gebruikt worden door de opdrachtgevers en diens (of andere) content beheerders en onder andere hun technisch vermogen bepaalt welke CX je ze kunt bieden. De DX wordt onder andere bepaald door: of de website onderdeel is van een ander systeem, met hoeveel developers je aan het project gaat werken en hoe lang je aan het project gaat werken. 
-
-In deze sprint onderzoek je wat een geschikte tech-stack is waarmee je de opdracht voor de opdrachtgever goed kan maken en onderhouden. Voor deze sprint ga je dezelfde Epic als sprint 14 uitwerken, maar dan met een ander framework en een ander Headless CMS. Zo kun je aan het eind van deze sprint een goede vergelijking maken van hoe verschillende frameworks en tools werken.
+In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-client-case) ben je begonnen met het ontwerpen en maken van een opdracht voor een opdrachtgever met een framework en headless CMS. Daarbij stond het framework (Sveltekit) en het headless CMS (HyGraph) vast.  ... In deze sprint experimenteer je met andere frameworks en tools.
 
 Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
 
-In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen. Tijdens de vorige sprint heb je in een team een opdracht voor een opdrachtgever ontworpen en gemaakt. Na 3 weken heb je tijdens de sprint-review je opdracht laten zien en feedback gekregen. Volgende sprint gaan we verder met het verwerken van die feedback, nu nemen we de tijd om verschillende implementaties van het project te onderzoeken.
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
 
 0. Lees eerst de instructies van deze leertaak zorgvuldig door.
 1. Maak een fork van [deze leertaak](https://github.com/fdnd-task/choices-choices-the-tech-stack/).
@@ -64,7 +60,6 @@ In de testfase test je of jouw site geschikt is voor alle gebruikersgroepen.
 Deze opdracht is done als:
 
  - [ ] Je hebt verschillende frameworks en tools onderzocht en uitgeprobeerd
- - [ ] Je hebt de frameworks en tools vergeleken en een onderbouwde keuze gemaakt voor een geschikte tech-stack
  - [ ] Je hebt je onderzoek gedocumenteerd in de Wiki
  - [ ] de website staat op Github en heeft een live url
  
