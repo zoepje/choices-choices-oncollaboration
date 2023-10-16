@@ -1,7 +1,7 @@
 
 # Choices, Choices - The Tech-stack
 
-Ontwerp en bouw de website voor de opdrachtgever met een andere tech-stack.
+Kies een nieuwe tech-stack voor het ontwerpen en bouwen de website van een  website voor een de opdrachtgever
 
 ## Context
 
@@ -13,7 +13,7 @@ Bij deze leertaak hoort de deeltaak:
 
 ## Doel van deze opdracht
 
-Je leert tijdens deze sprint het project in een andere tech-stack te ontwerpen en bouwen. 
+Bij FDND vinden we het belangrijk dat studenten [framework agnostisch](https://dev.to/stefannieuwenhuis/3-reasons-why-i-went-framework-agnostic-and-why-you-should-do-that-too-2o37) worden opgeleid. Het doel van deze opdracht is om te leren wat de verschillen en overeenkomsten zijn van tech-stacks.
 
 ## Werkwijze
 
