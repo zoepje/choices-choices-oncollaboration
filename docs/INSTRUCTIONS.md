@@ -1,7 +1,7 @@
 
 # Choices, Choices - The Tech-stack
 
-Kies een andere tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
+Ontwerp en bouw de website voor de opdrachtgever met een andere tech-stack.
 
 ## Context
 
