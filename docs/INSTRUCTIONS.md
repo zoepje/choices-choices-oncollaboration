@@ -7,6 +7,10 @@ Ontwerp en bouw de website voor de opdrachtgever met een andere tech-stack.
 
 Deze leertaak hoort bij sprint 15: Choices, choices ... Dit is een opdracht die je individueel uitvoert voor jouw opdrachtgever (dezelfde als in sprint 14).
 
+Bij deze leertaak hoort de deeltaak:
+
+- [Choices, Choices - Justify Your Tech Stack](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack)
+
 ## Doel van deze opdracht
 
 Je leert tijdens deze sprint het project in een andere tech-stack te ontwerpen en bouwen. 
