@@ -9,7 +9,7 @@ Deze leertaak hoort bij sprint 15: Choices, choices ... Dit is een opdracht die 
 
 ## Doel van deze opdracht
 
-Je bouwt tijdens deze sprint het project in een andere tech-stack. Let op: vanaf Sprin 16 gaat het gezamenlijke project verder met in ieder geval Sveltekit als framework, eventueel mag de backend anders zijn als je daar steekhoudende argumenten voor hebt. De hoop is dat je onze keuze voor Sveltekit beter kunt waarderen als je andere frameworks hebt onderzocht. Gaandeweg leer je onderbouwde keuzes te maken voor een geschikte tech-stack, de tools en frameworks die je gebruikt bij het realiseren van een opdracht voor een opdrachtgever.
+Je bouwt tijdens deze sprint het project in een andere tech-stack. Let op: vanaf Sprint 16 gaat het gezamenlijke project verder met in ieder geval Sveltekit als framework, eventueel mag de backend anders zijn als je daar steekhoudende argumenten voor hebt. De hoop is dat je onze keuze voor Sveltekit beter kunt waarderen als je andere frameworks hebt onderzocht. Gaandeweg leer je onderbouwde keuzes te maken voor een geschikte tech-stack, de tools en frameworks die je gebruikt bij het realiseren van een opdracht voor een opdrachtgever.
 
 ## Werkwijze
 
