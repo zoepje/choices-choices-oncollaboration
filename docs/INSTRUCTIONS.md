@@ -13,9 +13,9 @@ Je leert tijdens deze sprint het project in een andere tech-stack te ontwerpen e
 
 ## Werkwijze
 
-Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
-
 In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-client-case) ben je begonnen met het ontwerpen en maken van een opdracht voor een opdrachtgever met een framework en headless CMS. Daarbij stond het framework (Sveltekit) en het headless CMS (HyGraph) vast.  ... In deze sprint experimenteer je met andere frameworks en tools.
+
+Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
 
 Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
