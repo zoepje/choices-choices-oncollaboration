@@ -1,7 +1,7 @@
 
 # Choices, Choices - The Tech-stack
 
-Kies een andere tech-stack voor het ontwerpen en bouwen van een  website voor een opdrachtgever.
+Kies een andere tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
 
 ## Context
 
@@ -63,7 +63,7 @@ In de testfase test je of jouw site geschikt is voor alle gebruikersgroepen.
 
 Deze opdracht is done als:
 
- - [ ] Je hebt verschillende frameworks en tools onderzocht en uitgeprobeerd
- - [ ] Je hebt je onderzoek gedocumenteerd in de Wiki
+ - [ ] Je hebt nieuwe frameworks en tools onderzocht en uitgeprobeerd
+ - [ ] Je hebt je onderzoek gedocumenteerd in de Readme
  - [ ] de website staat op Github en heeft een live url
  
