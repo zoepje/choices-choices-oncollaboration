@@ -1,8 +1,15 @@
+import pluginWebc from "@11ty/eleventy-plugin-webc";
+import { EleventyRenderPlugin } from "@11ty/eleventy";
+
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/images/");
   eleventyConfig.addPassthroughCopy("src/css/");
   eleventyConfig.addPassthroughCopy("src/fonts/");
 
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
+  eleventyConfig.addPlugin(pluginWebc, {
+    components: "src/_includes/components/*.webc",
+  });
 	return {
     dir: {
       input: 'src',
