@@ -1,4 +1,5 @@
 import { Navigation } from "./src/_includes/components/Navigation.js";
+import { WebinarOverview } from "./src/_includes/components/Webinar-overview.js";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css/");
@@ -8,7 +9,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addWatchTarget("src/css/");
 
   // Components:
-  eleventyConfig.addShortcode("navigation", Navigation);
+  eleventyConfig.addShortcode("Navigation", Navigation);
+  eleventyConfig.addShortcode("WebinarOverview", WebinarOverview);
   return {
     dir: {
       input: 'src',

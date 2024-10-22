@@ -4,3 +4,12 @@ title: "Oncollaboration"
 ---
 
 <h1>Home</h1>
+
+<section>
+  <h2>Webinars</h2>
+  <!-- {% WebinarOverview %} -->
+
+  {% for webinar in webinarFetch.results %}
+  <li><a href="{{ webinar.slug }}" target="_blank" rel="noopener noreferrer">{{webinar.title}}</a></li>
+  {% endfor %}
+</section>
