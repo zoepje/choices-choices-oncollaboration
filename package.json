@@ -17,6 +17,7 @@
   "type": "module",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-fetch": "^4.0.1",
     "common-tags": "^1.8.2"
   }
 }
