@@ -1,0 +1,61 @@
+.contouring-overview {
+  max-width: var(--card-max-width);
+}
+
+.contouring-overview div {
+  position: relative;
+  width: 100%;
+}
+
+.contouring-overview div span {
+  position: absolute;
+  color: var(--text-color);
+  font-size: var(--font-size-2);
+  font-weight: 700;
+  border-radius: var(--border-radius-small);
+  padding: 5px;
+  gap: 10px;
+  background-color: white;
+  bottom: 10px;
+  right: 10px;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.contouring-overview div img {
+  height: auto;
+  width: 100%;
+  border-radius: var(--border-radius-big);
+}
+
+.contouring-overview h3,
+.contouring-overview p,
+.contouring-overview a {
+  margin: 0;
+  padding: 0;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.contouring-overview h3 {
+  font-size: var(--font-size-0);
+}
+
+.contouring-overview p {
+  font-size: var(--font-size-00);
+}
+
+@media screen and (min-width: 600px) {
+  .contouring-overview div span {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .contouring-overview h3 {
+    font-size: var(--font-size-4);
+  }
+
+  .contouring-overview p {
+    font-size: var( --font-size-2);
+  }
+}
