@@ -8,13 +8,20 @@ export function WebinarOverview({slug, thumbnail, duration, title, speakers, cat
       </div>
       <h3>${title}</h3>
       <p class="speakers">
-
-      
+      ${speakers
+        .map(
+          (speaker) =>
+            `<span>${speaker}</span>`
+        )
+        .join(" ")}
       </p>
       <div class="categories">
-        {% for category in ${categories} %}
-          <p class="category">{{ category.avl_categories_id.name }}</p>
-        {% endfor %}  
+        ${categories
+        .map(
+          (category) =>
+            `<p class="category">${category}</p>`
+        )
+        .join("")}
       </div>
     </a>
   </article>
