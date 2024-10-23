@@ -1,10 +1,10 @@
-.webinar {
+.webinar-overview {
   margin-inline: .5rem;
   max-width: var(--card-max-width);
   height: 100%;
 }
 
-.webinar a {
+.webinar-overview a {
   color: var(--text-color);
   text-decoration: none;
   display: grid;
@@ -12,22 +12,22 @@
   height: 100%;
 }
 
-.webinar p {
+.webinar-overview p {
   font-size: var(--font-size-00);
 }
 
-.webinar .container-image {
+.webinar-overview .container-image {
   position: relative;
 }  
 
-.webinar .container-image img {
+.webinar-overview .container-image img {
   width: 100%;
   height: 100%;
   object-fit: contain;
   border-radius: var(--border-radius-big);
 }
 
-.webinar .container-image .duration {
+.webinar-overview .container-image .duration {
   position: absolute;
   background-color: #1F000B;
   color: var(--alt-text-color);
@@ -38,7 +38,7 @@
   z-index: 1;
 }
 
-.webinar h3 {
+.webinar-overview h3 {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
@@ -48,26 +48,26 @@
   text-overflow: ellipsis;
 }
 
-.webinar .speakers {
+.webinar-overview .speakers {
   display: inline;
 }
 
-.webinar .speakers span {
+.webinar-overview .speakers span {
   text-transform: uppercase;
   color: var(--primary-color);
   margin-block: .2rem;
 }
 
-.webinar .speakers span:not(:first-child)::before {
+.webinar-overview .speakers span:not(:first-child)::before {
   content: "—";
 }
 
-.webinar .categories {
+.webinar-overview .categories {
   display: flex;
   margin-top: auto;
 }
 
-.webinar .categories .category {
+.webinar-overview .categories .category {
   display: none;
   margin-inline-end: .5rem;
   padding: var(--padding-label);
@@ -76,25 +76,25 @@
   border-radius: var(--border-radius-small);
 }
 
-.webinar:first-of-type {
+.webinar-overview:first-of-type {
   margin-left: 0;
 }
 
 @media only screen and (min-width: 600px) {
-  .webinar {
+  .webinar-overview {
     margin-inline: 1rem;
   }
 
-  .webinar p {
+  .webinar-overview p {
     font-size: var(--font-size-2);
   }
 
-  .webinar h3 {
+  .webinar-overview h3 {
     -webkit-line-clamp: 2;
     font-size: var(--font-size-4);
   }
 
-  .webinar .categories .category {
+  .webinar-overview .categories .category {
     display: block;
   }
 }

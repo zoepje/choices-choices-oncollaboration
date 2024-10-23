@@ -1,6 +1,6 @@
 export function WebinarOverview({slug, thumbnail, duration, title, speakers, categories}){  
   return `
-  <article class="webinar">
+  <article class="webinar-overview">
     <a href="/webinars/${slug}">
       <div class="container-image">
         <img src="https://fdnd-agency.directus.app/assets/${thumbnail}" alt="thumbnail" width="400" height="225">
