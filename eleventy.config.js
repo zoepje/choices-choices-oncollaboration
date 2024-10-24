@@ -17,11 +17,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("ContouringOverview", ContouringOverview);
   eleventyConfig.addShortcode("Filter", Filter);
   eleventyConfig.addShortcode("Search", Search);
-  
-  //Fetch data:
-  eleventyConfig.addCollection("webinars", function(webinars) {
-    return webinars.items;
-  });
 
   return {
     dir: {
