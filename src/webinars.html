@@ -1,6 +1,6 @@
 ---
 layout: "layouts/webinars.html"
-title: "Oncollaboration | Webinars"
+title: "Webinars | Oncollaboration"
 ---
 
 <h1>Webinars</h1>
@@ -10,3 +10,9 @@ title: "Oncollaboration | Webinars"
 {% Filter %}
 
 {% WebinarOverview slug="hello", thumbnail="ed2c1154-3eac-4b96-819d-64d7fb2ad1a9", duration="1:02:59", title="dit is een titel", speakers=["Id", "ander ID"], categories=["lung", "brain"]%}
+
+<!-- {% for webinar in webinars %}
+  {% WebinarOverview slug={{ webinar.slug }}, thumbnail="ed2c1154-3eac-4b96-819d-64d7fb2ad1a9", duration="1:02:59", title="dit is een titel", speakers=["Id", "ander ID"], categories=["lung", "brain"]%}
+{% endfor %} -->
+
+{{ webinars | dump }}

@@ -18,6 +18,11 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("Filter", Filter);
   eleventyConfig.addShortcode("Search", Search);
   
+  //Fetch data:
+  eleventyConfig.addCollection("webinars", function(webinars) {
+    return webinars.items;
+  });
+
   return {
     dir: {
       input: 'src',
