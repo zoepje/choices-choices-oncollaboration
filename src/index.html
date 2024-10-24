@@ -22,7 +22,13 @@ title: "Oncollaboration"
   
   <section>
     <h2>Contourings</h2>
-    {% ContouringOverview slug="slkd", image_scan="9fc392a3-a8ea-4a42-bc33-02a7fc34f101", title="IMA 4 32", user_id="Id", categories=["Lung"]%}
+    <div class="carrousel">
+      {% for contouring in contourings %}
+        <div class="contouringkaart">
+          {% ContouringOverview slug=contouring.slug, image_scan=contouring.image_scan, title=contouring.title, user_id=contouring.user_id, categories=contouring.categories %}
+        </div>
+      {% endfor %}
+    </div>
     <a class="see-more-button margin" href="/contourings">SEE ALL CONTOURINGS</a>
   </section>
 </main>

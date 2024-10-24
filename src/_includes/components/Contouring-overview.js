@@ -7,12 +7,12 @@ export function ContouringOverview({slug, image_scan, title, user_id, categories
       ${categories
         .map(
           (category) =>
-            `<span>${category}</span>`
+            `<span>${category.avl_categories_id.name}</span>`
         )
       }     
     </div>
     <h3>${title}</h3>
-    <p>${user_id}</p>
+    <p>${user_id.fullname}</p>
   </a>
 </article>
 `
