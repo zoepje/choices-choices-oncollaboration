@@ -12,4 +12,8 @@ title: "Webinars | Oncollaboration"
 <ul>
   {% for webinar in webinars %}
   <li>
-    {% WebinarOverview slug=webinar.slug, thumbnail=webinar.thumbnail, duration=webinar.duration, title=webinar.title, speakers=webinar.speakers
+    {% WebinarOverview slug=webinar.slug, thumbnail=webinar.thumbnail, duration=webinar.duration, title=webinar.title, speakers=webinar.speakers, categories=webinar.categories %}
+  </li>
+  {% endfor %}
+</ul>
+
