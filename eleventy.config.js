@@ -1,6 +1,8 @@
 import { Navigation } from "./src/_includes/components/Navigation.js";
 import { WebinarOverview } from "./src/_includes/components/Webinar-overview.js";
 import { ContouringOverview } from "./src/_includes/components/Contouring-overview.js";
+import { Filter } from "./src/_includes/components/Filter.js";
+import { Search } from "./src/_includes/components/Search.js";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css/");
@@ -13,6 +15,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("Navigation", Navigation);
   eleventyConfig.addShortcode("WebinarOverview", WebinarOverview);
   eleventyConfig.addShortcode("ContouringOverview", ContouringOverview);
+  eleventyConfig.addShortcode("Filter", Filter);
+  eleventyConfig.addShortcode("Search", Search);
+  
   return {
     dir: {
       input: 'src',

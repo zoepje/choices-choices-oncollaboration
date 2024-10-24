@@ -1,0 +1,42 @@
+.filter {
+  display: flex;
+  overflow-x: auto;
+  width: 99vw;
+  -webkit-mask: linear-gradient(90deg,#0000,#000 5% 95%,#0000);
+}
+
+.filter label {
+  margin: .2rem;
+  padding: var(--padding-label);
+  text-transform: uppercase;
+  background-color: var(--background-category-color);
+  border-radius: var(--border-radius-small);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.filter label:focus-within {
+  outline: var(--focus);
+  border-radius: var(--border-radius-small);
+}
+
+.filter label:has(input:checked) {
+  background-color: var(--primary-color);
+  color: var(--alt-text-color);
+}
+
+.filter input {
+  position: absolute;
+  top: -999999em;
+}
+
+@media only screen and (min-width:600px) {
+  .filter {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .filter label {
+    margin-inline: .5rem;
+  }
+}
