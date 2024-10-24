@@ -24,4 +24,19 @@ title: "Oncollaboration"
     <a class="see-more-button" href="/webinars">SEE ALL WEBINARS</a>
   </section>
   
-  
+  <section>
+    <h2>Contourings</h2>
+    <div class="carrousel">
+      {% set countCon = 0 %}
+      {% for contouring in contourings %}
+        {% if countCon < 4 %}
+        <div class="contouringkaart">
+          {% ContouringOverview slug=contouring.slug, image_scan=contouring.image_scan, title=contouring.title, user_id=contouring.user_id, categories=contouring.categories %}
+        </div>
+        {% set countCon = countCon + 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <a class="see-more-button margin" href="/contourings">SEE ALL CONTOURINGS</a>
+  </section>
+</main>
