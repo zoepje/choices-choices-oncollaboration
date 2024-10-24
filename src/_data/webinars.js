@@ -3,11 +3,14 @@ import EleventyFetch from "@11ty/eleventy-fetch"
 const baseURL = 'https://fdnd-agency.directus.app/items/'
 
 export async function getWebinars(){
-  const webinars = `${baseURL}avl_webinars`
-  const response = EleventyFetch(webinars, {
+  const webinar = `${baseURL}avl_webinars`
+  const response = EleventyFetch(webinar, {
     duration: "1d",
     type: "json"
   });
 
-  return response.data;
+  const webinars = response.data;
+  console.log(webinars);
+  
+  return webinars;
 }
