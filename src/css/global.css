@@ -77,13 +77,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 @media screen and (min-width: 1080px) {
-  main {
+  .slot {
     margin-top: 75px;
   }
 }
 
 @media screen and (min-width: 1920px) {
-  main {
+  .slot {
     margin-top: 85px;
   }
 }

@@ -1,0 +1,93 @@
+main h1 {
+  font-size: var(--font-size-4);
+}
+
+main section h2 {
+  font-size: var(--font-size-2);
+  margin-bottom: 0.5em;
+  margin-top: 0.8em;
+}
+
+main .see-more-button {
+  display: inline-flex;
+  color: white;
+  background-color: var(--primary-color);
+  font-size: var(--font-size-0);
+  font-weight: 700;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 1em 0;
+}
+
+main .margin {
+  margin-bottom: 50px;
+}
+
+main .carrousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 0px;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  margin: 0 auto;
+  gap: 10px;
+}
+
+main .kaart:focus-within {
+  outline: var(--focus);
+  border-radius: var(--border-radius-small);
+}
+
+main .kaart {
+  flex: 0 0 calc(100% - 20%);
+  scroll-snap-align: start;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+main .contouringkaart {
+  flex: 0 0 calc(100% - 42%);
+  scroll-snap-align: start;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+main .contouringkaart:focus-within {
+  outline: var(--focus);
+  border-radius: var(--border-radius-small);
+}
+
+main .carrousel::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (min-width: 500px) {
+  main .kaart {
+    flex: 0 0 auto;
+  }
+
+  main .contouringkaart {
+    flex: 0 0 auto;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  main h1 {
+    font-size: var(--font-size-6);
+  }
+
+  main section h2 {
+    font-size: var(--font-size-5);
+  }
+
+  main .see-more-button {
+    font-size: var(--font-size-2);
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  main .carrousel {
+    margin: 0;
+  }
+}
