@@ -1,13 +1,13 @@
-import fetchJson from "./fetch-json.js";
+import EleventyFetch from "@11ty/eleventy-fetch"
 
 const baseURL = 'https://fdnd-agency.directus.app/items/'
 
-export async function Webinars() {
-  const webinar = `${baseURL}avl_webinars?fields=*.*.*&sort[]=-date`;
-  
-  const webinars = await fetchJson(webinar);
-  
-  return {
-    webinars: webinars.data
-  };
+export async function getWebinars(){
+  const webinars = `${baseURL}avl_webinars`
+  const response = EleventyFetch(webinars, {
+    duration: "1d",
+    type: "json"
+  });
+
+  return response.data;
 }
