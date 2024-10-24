@@ -11,7 +11,7 @@ export function WebinarOverview({slug, thumbnail, duration, title, speakers, cat
       ${speakers
         .map(
           (speaker) =>
-            `<span>${speaker}</span>`
+            `<span>${speaker.avl_speakers_id.fullname}</span>`
         )
         .join(" ")}
       </p>
@@ -19,7 +19,7 @@ export function WebinarOverview({slug, thumbnail, duration, title, speakers, cat
         ${categories
         .map(
           (category) =>
-            `<p class="category">${category}</p>`
+            `<p class="category">${category.avl_categories_id.name}</p>`
         )
         .join("")}
       </div>
