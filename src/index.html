@@ -11,24 +11,17 @@ title: "Oncollaboration"
   <section>
     <h2>Webinars</h2>
     <div class="carrousel">
+      {% set countWeb = 0 %}
       {% for webinar in webinars %}
+        {% if countWeb < 4 %}
         <div class="kaart">
           {% WebinarOverview slug=webinar.slug, thumbnail=webinar.thumbnail, duration=webinar.duration, title=webinar.title, speakers=webinar.speakers, categories=webinar.categories %}
         </div>
+        {% set countWeb = countWeb + 1 %}
+        {% endif %}
       {% endfor %}
     </div>
     <a class="see-more-button" href="/webinars">SEE ALL WEBINARS</a>
   </section>
   
-  <section>
-    <h2>Contourings</h2>
-    <div class="carrousel">
-      {% for contouring in contourings %}
-        <div class="contouringkaart">
-          {% ContouringOverview slug=contouring.slug, image_scan=contouring.image_scan, title=contouring.title, user_id=contouring.user_id, categories=contouring.categories %}
-        </div>
-      {% endfor %}
-    </div>
-    <a class="see-more-button margin" href="/contourings">SEE ALL CONTOURINGS</a>
-  </section>
-</main>
+  
